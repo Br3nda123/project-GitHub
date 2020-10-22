@@ -1,4 +1,7 @@
 Trening project with gitHub repository
 
---------------------------------------
-comment push 
+---
+
+comment push
+commit
+clone
