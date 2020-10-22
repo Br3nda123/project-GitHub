@@ -2,3 +2,8 @@ h1 {
 	font-size: 3rem;
 	font-family: serif;
 }
+
+p {
+	background-color: #000000;
+	color: red;
+}
